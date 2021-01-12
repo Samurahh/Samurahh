@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-pavel-6392191bb/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreipavel178@gmail.com)
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:apavel@spartaglobal.com)
-[![SpartaGlobal](https://img.shields.io/badge/Sparta%20Global-%23CC6699.svg?&style=for-the-badge&logo=spartaglobal&logoColor=white)](https://www.spartaglobal.com/)
+[![SpartaGlobal](https://img.shields.io/badge/Sparta%20Global-E33661?logo=spartaglobal?logoColor=white?&style=for-the-badge)](https://www.spartaglobal.com/)
 
 ### Personal information
 - **Location:** Birmingham, UK
