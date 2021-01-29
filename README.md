@@ -19,6 +19,10 @@
 ![markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![maven](https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?&style=for-the-badge&logo=apache-maven&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+![jacksonjson](https://img.shields.io/badge/Jackson-36A9AE?&style=for-the-badge)
+![restassured](https://img.shields.io/badge/Rest%20Assured-004027?&style=for-the-badge)
+![junit](https://img.shields.io/badge/jUnit-E2231A?&style=for-the-badge)
+
 -------
 ![intellij](https://img.shields.io/badge/intelliJ%20IDEA-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
