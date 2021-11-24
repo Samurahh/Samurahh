@@ -1,4 +1,4 @@
-## Hi! I am Andrei Pavel, a Java SDET Trainee Consultant at Sparta Global.
+## Hi! I am Andrei Pavel, a Java SDET Junior Consultant at Sparta Global.
 
 [![GitHub](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samurahh/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-pavel-6392191bb/)
@@ -8,10 +8,10 @@
 
 ### Personal information
 - **Location:** Birmingham, UK
-- **Start of training:** 16/10/2020
-- **Training duration:** 12 weeks
-- **`Java SDET Trainee Consultant`**
+- **Training completion:** March 2021
+- **`Java SDET Junior Consultant`**
 - **Graduate** of Computer Science in Business Management
+- **Building custom test frameworks.**
 -------
 ### Technical skills
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
