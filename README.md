@@ -12,6 +12,7 @@
 - **`Java SDET Junior Consultant`**
 - **Graduate** of Computer Science in Business Management
 - **Building custom test frameworks.**
+- [**`Oracle Certified Professional: Java SE 11 Developer`**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=20A2B7C1283B4385FA24752093D9610459E83A1951E19886863DC9587528B6BD#)
 -------
 ### Technical skills
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
