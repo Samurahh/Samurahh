@@ -1,15 +1,11 @@
-## Hi! I am Andrei Pavel, a Java SDET Junior Consultant at Sparta Global.
+## Hi! I am Andrei Pavel, an Associate Software Engineer at Goldman Sachs.
 
 [![GitHub](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samurahh/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-pavel-6392191bb/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreipavel178@gmail.com)
-[![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:apavel@spartaglobal.com)
-[![SpartaGlobal](https://img.shields.io/badge/Sparta%20Global-E33661?logo=spartaglobal?logoColor=white?&style=for-the-badge)](https://www.spartaglobal.com/)
 
 ### Personal information
 - **Location:** Birmingham, UK
-- **Training completion:** March 2021
-- **`Java SDET Junior Consultant`**
 - **Graduate** of Computer Science in Business Management
 - **Building custom test frameworks.**
 - [**`Oracle Certified Professional: Java SE 11 Developer`**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=20A2B7C1283B4385FA24752093D9610459E83A1951E19886863DC9587528B6BD#)
